@@ -26,7 +26,7 @@ public class ChatService {
     private Map<String, List<String>> channelUsers;
     private Map<String, JChannel> channels;
 
-    private static final String MANAGEMENT_CHANNEL_NAME = "ChatManagement768624";
+    private static final String MANAGEMENT_CHANNEL_NAME = "ChatManagement321321";
 
     public ChatService() {
         System.out.println("Service started");
